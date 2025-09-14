@@ -128,80 +128,6 @@ O carrossel implementado oferece:
 2. **Formulários Simples**: Preenchimento guiado com validação em tempo real
 3. **Informações Claras**: Produtos e serviços bem descritos com preços visíveis
 4. **Contato Fácil**: Informações de contato sempre visíveis no rodapé
-
-### Publicação no GitHub e GitHub Pages
-
-#### Repositório GitHub
-O projeto está preparado para ser publicado em repositório GitHub com:
-- **Estrutura Organizada**: Arquivos bem organizados e nomeados
-- **README Completo**: Documentação detalhada das funcionalidades
-- **Código Limpo**: Seguindo padrões de qualidade e boas práticas
-
-#### GitHub Pages
-Para publicação via GitHub Pages:
-1. **Arquivos Estáticos**: Todos os recursos são estáticos e compatíveis
-2. **Paths Relativos**: Caminhos de arquivos configurados para funcionamento online
-3. **CDN External**: Dependências externas carregadas via CDN
-4. **Responsividade**: Funcionamento garantido em todos os dispositivos
-
-## Como Publicar no GitHub Pages e GitHub Normal
-
-Para publicar este projeto no GitHub Pages e em um repositório GitHub normal, siga os passos abaixo:
-
-### 1. Criar um Repositório no GitHub
-
-1. Acesse o GitHub e faça login na sua conta.
-2. Clique no botão "New" (Novo) para criar um novo repositório.
-3. Dê um nome ao seu repositório (ex: `minimercado-web-fase2`).
-4. Escolha se o repositório será público ou privado.
-5. **Não** marque a opção para inicializar o repositório com um `README.md` (você já tem um).
-6. Clique em "Create repository" (Criar repositório).
-
-### 2. Fazer Upload dos Arquivos para o Repositório
-
-Você pode fazer o upload dos arquivos de duas maneiras:
-
-#### Opção A: Usando a Interface Web do GitHub
-
-1. Na página do seu novo repositório no GitHub, clique em "uploading an existing file" (fazer upload de um arquivo existente).
-2. Arraste e solte a pasta `minimercado_web_fase2` (ou o conteúdo dela) para a área indicada.
-3. Confirme o commit das alterações.
-
-#### Opção B: Usando Git (Recomendado)
-
-1. Abra o terminal ou prompt de comando no seu computador.
-2. Navegue até o diretório onde você descompactou o projeto `minimercado_web_fase2`.
-3. Inicialize um repositório Git local:
-   ```bash
-   git init
-   ```
-4. Adicione todos os arquivos ao stage:
-   ```bash
-   git add .
-   ```
-5. Faça o primeiro commit:
-   ```bash
-   git commit -m "Fase 2 - Projeto Minimercado Web com CSS/Bootstrap e JavaScript"
-   ```
-6. Adicione o repositório remoto do GitHub (substitua `SEU_USUARIO` e `NOME_DO_REPOSITORIO` pelos seus dados):
-   ```bash
-   git remote add origin https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
-   ```
-7. Envie os arquivos para o GitHub:
-   ```bash
-   git push -u origin master
-   ```
-
-### 3. Ativar o GitHub Pages
-
-1. No seu repositório no GitHub, clique na aba "Settings" (Configurações).
-2. No menu lateral esquerdo, clique em "Pages".
-3. Em "Source" (Fonte), selecione a branch `master` (ou `main`, dependendo do seu repositório) e a pasta `/(root)`.
-4. Clique em "Save" (Salvar).
-5. O GitHub Pages irá gerar um link para o seu site (ex: `https://SEU_USUARIO.github.io/NOME_DO_REPOSITORIO/`). Pode levar alguns minutos para o site ficar online.
-
-Agora seu projeto estará disponível tanto no repositório GitHub quanto publicado via GitHub Pages!
-
 ### Conclusão
 
 A Fase 2 do projeto Minimercado Bom Preço representa um salto qualitativo significativo em relação à Fase 1. A implementação bem-sucedida de CSS/Bootstrap, JavaScript avançado, formulários interativos, sistema de agendamento e recursos de acessibilidade resultou em uma aplicação web moderna e profissional.
@@ -212,8 +138,8 @@ O sistema está pronto para uso real, oferecendo todas as funcionalidades necess
 
 ---
 
-**Desenvolvido por**: Equipe de Desenvolvimento Web  
-**Data**: Setembro 2024  
+**Desenvolvido por**: Gustavo de Castro Barbosa  
+**Data**: Setembro 2025  
 **Versão**: 2.0  
 **Tecnologias**: HTML5, CSS3, Bootstrap 5.3.0, JavaScript ES6+
 
