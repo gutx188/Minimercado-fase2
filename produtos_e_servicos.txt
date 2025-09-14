@@ -1,0 +1,16 @@
+Frutas e Verduras:
+- Maçã: Descrição - Maçã fresca e crocante. Valor - R$ 5.00/kg
+- Banana: Descrição - Banana madura e doce. Valor - R$ 3.50/kg
+
+Produtos Alimentícios Não Perecíveis:
+- Arroz (5kg): Descrição - Arroz branco tipo 1. Valor - R$ 20.00
+- Feijão (1kg): Descrição - Feijão carioca selecionado. Valor - R$ 8.00
+
+Produtos de Higiene e Limpeza:
+- Sabonete (unidade): Descrição - Sabonete hidratante. Valor - R$ 2.50
+- Detergente (500ml): Descrição - Detergente concentrado. Valor - R$ 4.00
+
+Serviços:
+- Retirada no local: Descrição - Retire seu pedido diretamente no minimercado. Valor - Grátis
+- Tele-entrega: Descrição - Receba seu pedido no conforto da sua casa. Valor - R$ 10.00
+
